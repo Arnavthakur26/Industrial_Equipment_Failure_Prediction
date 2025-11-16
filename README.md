@@ -133,10 +133,8 @@ The XGBoost models deliver **strong RUL accuracy** and **excellent failure class
 Below are recommended screenshot placeholders for a complete portfolio showcase.
 
 ## 📌 Screenshot 1 — Executive Summary
-```markdown
-![Executive Summary](screenshots/summary.png)
 
-```
+![Executive Summary](screenshots/summary.png)
 
 Shows:
 - High-level metrics  
@@ -146,9 +144,9 @@ Shows:
 ---
 
 ## 📌 Screenshot 2 — Fleet Monitor
-```markdown
+
 ![Fleet Monitor](screenshots/fleet_overview.png)
-```
+
 
 Shows:
 - Current risk level per engine  
@@ -158,9 +156,9 @@ Shows:
 ---
 
 ## 📌 Screenshot 3 — Engine Explorer
-```markdown
+
 ![Engine Explorer](screenshots/engine_detail.png)
-```
+
 
 Shows:
 - True vs predicted RUL over cycles  
@@ -170,9 +168,8 @@ Shows:
 ---
 
 ## 📌 Screenshot 4 — Model Performance
-```markdown
+
 ![Model Performance](screenshots/model_performance.png)
-```
 
 Shows:
 - Regression scatter plot (true vs predicted)  
@@ -181,9 +178,9 @@ Shows:
 ---
 
 ## 📌 Screenshot 5 — Feature Importance
-```markdown
+
 ![Feature Importance](screenshots/feature_importance.png)
-```
+
 
 Shows:
 - Top XGBoost features  
