@@ -130,8 +130,6 @@ The XGBoost models deliver **strong RUL accuracy** and **excellent failure class
 
 # 🖥 Dashboard Demo
 
-Below are recommended screenshot placeholders for a complete portfolio showcase.
-
 ## 📌 Screenshot 1 — Executive Summary
 
 ![Executive Summary](screenshots/summary.png)
